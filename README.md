@@ -21,6 +21,8 @@ The presentations mainly cover:
 
 | Year | Conference | Presentation | Details |
 |---|---|---|---|
+| 2026 | BSides Frankfurt | [Inside Mythic](https://github.com/malmoeb/presentations/blob/main/2026_BSides_Frankfurt_macOS_Initial_Access.pdf) | [Deconstructing Modern
+macOS Initial Access Vectors](https://dfir.ch/talks/) |
 | 2026 | FIRST TC Paris | [Inside Mythic](https://github.com/malmoeb/presentations/blob/main/2026_FIRST_TC_Paris_Inside_Mythic.pdf) | [Inside Mythic: Dissecting a Modern Attack Framework](https://dfir.ch/talks/first_paris_2026/) |
 | 2026 | Botconf | [Tomb Raider](https://github.com/malmoeb/presentations/blob/main/2026_Botconf_Tomb_Raider.pdf) | [Tomb Raider - In Search of the Lost Signatures](https://dfir.ch/talks/botconf_2026/) |
 | 2025 | x33fcon | [macOS Forensics](https://github.com/malmoeb/presentations/blob/main/2025_x33fcon_MacOS_Forensics.pdf) | [From Zero to a Moderately Skilled MacOS Forensic Analyst](https://dfir.ch/talks/x33fcon_2025/) |
