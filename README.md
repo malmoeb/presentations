@@ -19,21 +19,20 @@ The presentations mainly cover:
 
 ## Presentations
 
-| Year | Conference | Presentation | Details |
+| Year | Conference | Presentation | Talk / Details |
 |---|---|---|---|
-| 2026 | BSides Frankfurt | [Inside Mythic](https://github.com/malmoeb/presentations/blob/main/2026_BSides_Frankfurt_macOS_Initial_Access.pdf) | [Deconstructing Modern
-macOS Initial Access Vectors](https://dfir.ch/talks/) |
+| 2026 | BSides Frankfurt | [macOS Initial Access](https://github.com/malmoeb/presentations/blob/main/2026_BSides_Frankfurt_macOS_Initial_Access.pdf) | [Deconstructing Modern macOS Initial Access Vectors](https://dfir.ch/talks/) |
 | 2026 | FIRST TC Paris | [Inside Mythic](https://github.com/malmoeb/presentations/blob/main/2026_FIRST_TC_Paris_Inside_Mythic.pdf) | [Inside Mythic: Dissecting a Modern Attack Framework](https://dfir.ch/talks/first_paris_2026/) |
 | 2026 | Botconf | [Tomb Raider](https://github.com/malmoeb/presentations/blob/main/2026_Botconf_Tomb_Raider.pdf) | [Tomb Raider - In Search of the Lost Signatures](https://dfir.ch/talks/botconf_2026/) |
 | 2025 | x33fcon | [macOS Forensics](https://github.com/malmoeb/presentations/blob/main/2025_x33fcon_MacOS_Forensics.pdf) | [From Zero to a Moderately Skilled MacOS Forensic Analyst](https://dfir.ch/talks/x33fcon_2025/) |
 | 2025 | hack.lu | [Anti-Forensics](https://github.com/malmoeb/presentations/blob/main/2025_hack.lu_Anti-Forensics.pdf) | [Anti-Forensics - You are doing it wrong](https://dfir.ch/talks/hack.lu_2025/) |
 | 2025 | TROOPERS | [Anti-Forensics](https://github.com/malmoeb/presentations/blob/main/2025_Troopers_Anti-Forensics.pdf) | [Anti-Forensics - You are doing it wrong](https://dfir.ch/talks/troopers_2025/) |
-| 2025 | SecurityFest | [Anti-Forensics](https://github.com/malmoeb/presentations/blob/main/2025_SecurityFest_Anti-Forensics.pdf) | [ Anti-Forensics - You are doing it wrong](https://dfir.ch/talks/securityfest_2025/) |
+| 2025 | SecurityFest | [Anti-Forensics](https://github.com/malmoeb/presentations/blob/main/2025_SecurityFest_Anti-Forensics.pdf) | [Anti-Forensics - You are doing it wrong](https://dfir.ch/talks/securityfest_2025/) |
 | 2025 | FIRST Copenhagen | [Anti-Forensics](https://github.com/malmoeb/presentations/blob/main/2025_FIRST_Copenhagen_Anti-Forensics.pdf) | [Anti-Forensics - You are doing it wrong](https://dfir.ch/talks/firstcon_2025/) |
 | 2025 | FIRST TC Amsterdam | [Linux Rootkits](https://github.com/malmoeb/presentations/blob/main/2025_FIRST_TC_Amsterdam_Linux_Rootkits.pdf) | [In-Depth Study of Linux Rootkits](https://dfir.ch/talks/first_amsterdam_2025/) |
 | 2025 | EuskalHack | [Linux Rootkits](https://github.com/malmoeb/presentations/blob/main/2025_Euskalhack_Linux_Rootkits.pdf) | [In-Depth Study Of Linux Rootkits](https://dfir.ch/talks/euskalhack_2025/) |
 | 2025 | BSides Transylvania | [macOS Forensics](https://github.com/malmoeb/presentations/blob/main/2025_BSides_Transylvania_MacOS_Forensics.pdf) | [From Zero to a Moderately Skilled MacOS Forensic Analyst](https://dfir.ch/talks/bsides_transylvania_2025/) |
-| 2025 | BSides Munich | [Cleartext Passwords](https://github.com/malmoeb/presentations/blob/main/2025_BSides_Munich_Cleartext_Passwords.pdf) |  [Fantastic clear-text passwords and where to collect them](https://dfir.ch/talks/bsides_munich_2025/) |
+| 2025 | BSides Munich | [Cleartext Passwords](https://github.com/malmoeb/presentations/blob/main/2025_BSides_Munich_Cleartext_Passwords.pdf) | [Fantastic clear-text passwords and where to collect them](https://dfir.ch/talks/bsides_munich_2025/) |
 | 2025 | BSides Kent | [Gist Incident Response](https://github.com/malmoeb/presentations/blob/main/2025_BSides_Kent_Gist_Incident_Response.pdf) | [The Gist of Hundreds of Incident Response Cases](https://dfir.ch/talks/bsides_kent_2025/) |
 | 2025 | BSides Chisinau | [Keynote](https://github.com/malmoeb/presentations/blob/main/2025_BSides_Chisinau_Keynote.pdf) | [Congratulations, You're Still Insecure!](https://dfir.ch/talks/bsides_chisinau_2025/) |
 | 2025 | BSides Berlin | [Inside Mythic](https://github.com/malmoeb/presentations/blob/main/2025_BSides_Berlin_Inside_Mythic.pdf) | [Inside Mythic: Dissecting a Modern Attack Framework](https://dfir.ch/talks/bsides_berlin_2025/) |
@@ -51,7 +50,7 @@ My research focuses heavily on techniques and artefacts that are useful during r
 
 More DFIR research and field notes:
 
-👉 **https://dfir.ch**
+👉 [**dfir.ch**](https://dfir.ch)
 
 ## A Note About the Slides
 
